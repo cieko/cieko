@@ -30,7 +30,7 @@
 <br />
 
 <a href="https://github.com/cieko/github-readme-stats" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cieko&layout=donut-vertical" height=300 />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cieko&layout=donut-vertical" height=250 />
 </a>
 
 <picture>
@@ -42,5 +42,5 @@
     srcset="https://github-readme-stats.vercel.app/api?username=cieko&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=cieko&show_icons=true" height=300 />
+  <img src="https://github-readme-stats.vercel.app/api?username=cieko&show_icons=true" height=250 />
 </picture>
