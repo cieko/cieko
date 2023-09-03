@@ -29,11 +29,18 @@
 <br />
 <br />
 
+<a href="https://github.com/cieko/github-readme-stats" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cieko&layout=donut-vertical" height=300 />
+</a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cieko&show_icons=true&locale=en&layout=compact" alt="cieko" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cieko&show_icons=true&locale=en" alt="cieko" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cieko&" alt="cieko" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cieko" alt="cieko" /></a> </p>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=cieko&show_icons=true&theme=radical"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=cieko&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=cieko&show_icons=true" height=300 />
+</picture>
