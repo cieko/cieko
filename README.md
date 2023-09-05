@@ -1,4 +1,4 @@
-<img align="center" alt="head" src="./Creative Studio Name LinkedIn Article Cover Image2.png" />
+<img align="center" alt="head" src="./Blue Fun Art Discord Profile Banner (1).png" />
 <h1 align="center">Hi, I'm Rahul Saxena</h1>
 <h3 align="center">A passionate Web Enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif" />
