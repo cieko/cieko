@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Rahul Saxena | &#127470;&#127475;</h1>
 
 <h3 align="center">
-  <span>Software Engineer | Embracing AI &nbsp; &nbsp;</span>
+  <div>Software Engineer | Embracing AI &nbsp; &nbsp;</div>
   <a href="https://twitter.com/sciecoscript" target="blank"><img src="./output-onlinegiftools.gif" alt="sciecoscript" width="34px" height="34px"/></a>
   <a href="https://twitter.com/sciecoscript" target="blank"><img src="./Untitled design5.png" alt="sciecoscript" width="34px" height="34px"/></a>
   <a href="https://twitter.com/sciecoscript" target="blank"><img src="./follow.gif" alt="sciecoscript" width="80px" height="34px"/></a>
