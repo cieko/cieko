@@ -2,8 +2,10 @@
 <h1 align="center">Hi, I'm Rahul Saxena | &#127470;&#127475;</h1>
 
 <h3 align="center" style="display: flex; align-items: center; justify-content: center;">
-  Software Engineer | Embracing AI
+  Software Engineer | Embracing AI &nbsp; &nbsp;
   <a href="https://twitter.com/sciecoscript" target="blank"><img src="./output-onlinegiftools.gif" alt="sciecoscript" width="34px" height="34px"/></a>
+  <a href="https://twitter.com/sciecoscript" target="blank"><img src="./Untitled design5.png" alt="sciecoscript" width="34px" height="34px"/></a>
+  <a href="https://twitter.com/sciecoscript" target="blank"><img src="./Untitled design5.png" alt="sciecoscript" width="34px" height="34px"/></a>
 </h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif" />
