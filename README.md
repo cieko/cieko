@@ -1,4 +1,4 @@
-<img align="center" alt="head" src="./Blue Fun Art Discord Profile Banner (1).png" />
+<img align="center" alt="head" src="./pexels-kevin-ku-577585.jpg" />
 <h1 align="center">Hi, I'm Rahul Saxena | &#127470;&#127475;</h1>
 
 <h3 align="center">
