@@ -36,18 +36,19 @@
 <br />
 <br />
 
-<a href="https://github.com/cieko/github-readme-stats" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cieko&layout=donut-vertical" height=250 />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cieko&theme=react)](https://github.com/cieko/github-readme-stats)
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=cieko&show_icons=true&theme=radical"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=cieko&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=cieko&show_icons=true" height=250 />
-</picture>
+<br>
+
+## Github Status 🏆
+
+<img  src="https://github-stats-lemon.vercel.app/api?username=cieko&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cieko&theme=react" width="48%" >
+<br>
+
+![github graph](https://github-readme-activity-graph.vercel.app/graph?username=cieko&theme=react-dark)
+<br>
+
+<p align="center">Wanna Know me More?</p>
+
+<p align="center">
