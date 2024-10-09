@@ -123,15 +123,19 @@
 
 <br>
 
-## Github Status 🏆
+## Github Status and Trophies 🏆
 
 <img  src="https://github-stats-lemon.vercel.app/api?username=cieko&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cieko&theme=react" width="48%" >
 <br>
 
+![](https://github-profile-trophy.vercel.app/?username=cieko&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
+
 ![github graph](https://github-readme-activity-graph.vercel.app/graph?username=cieko&theme=react-dark)
 <br>
 
-<p align="center">Wanna Know me More?</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br>
 
 <p align="center">
