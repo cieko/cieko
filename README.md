@@ -123,7 +123,7 @@
 
 <br>
 
-## Github Status and Trophies 🏆
+## Github Stats and Trophies 🏆
 
 <img  src="https://github-stats-lemon.vercel.app/api?username=cieko&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cieko&theme=react" width="48%" >
