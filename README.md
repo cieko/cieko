@@ -12,7 +12,7 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=cieko&label=Profile%20views&color=0e75b6&style=flat" alt="cieko" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ciekoscript" target="blank"><img src="https://img.shields.io/twitter/follow/ciekoscript?logo=twitter&style=for-the-badge" alt="ciekoscript" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ciekoscript" target="blank"><img src="https://img.shields.io/twitter/follow/ciekoscript?logo=twitter&style=for-the-badge" alt="ciekoscript" /></a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
