@@ -123,13 +123,12 @@
 
 ## Github Stats and Trophies 🏆    
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cieko&include_all_commits=true&bg_color=00000000&text_color=ffffff" width="48%"/> 
-</p>
+</p> -->
 
-<img  src="https://github-stats-lemon.vercel.app/api?username=cieko&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cieko&theme=react" width="48%" >
-<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cieko&theme=react" width="48%" align="right" >
+<img  src="https://github-stats-lemon.vercel.app/api?username=cieko&show_icons=true&hide_border=true&theme=react" width="48%" align="left" >
 
 ![](https://github-profile-trophy.vercel.app/?username=cieko&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
